@@ -4,6 +4,10 @@ This project explores stock market anomaly detection using Python libraries like
 ## What is Stock Market Anomaly Detection?
 Anomaly detection aims to identify unusual patterns or behaviors in stock market data that deviate significantly from the norm. These anomalies can potentially indicate opportunities or risks for investors.
 
+## Snapshots
+![image](https://github.com/Arushi-Sthapak/Stock-Price-Anomaly-Analysis/assets/99334415/d74dd52e-1185-443f-be62-a2a16306dfae)
+
+
 ## Getting Started
 #### 1. Clone this repository:
 ```
