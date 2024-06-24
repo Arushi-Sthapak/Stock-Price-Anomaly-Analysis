@@ -6,6 +6,7 @@ Anomaly detection aims to identify unusual patterns or behaviors in stock market
 
 ## Snapshots
 ![image](https://github.com/Arushi-Sthapak/Stock-Price-Anomaly-Analysis/assets/99334415/d74dd52e-1185-443f-be62-a2a16306dfae)
+![image](https://github.com/Arushi-Sthapak/Stock-Price-Anomaly-Analysis/assets/99334415/31a45baa-532c-440e-8439-e80224ac5dd8)
 
 
 ## Getting Started
