@@ -1,6 +1,11 @@
 # Stock Market Anomaly Detection with Python
 This project explores stock market anomaly detection using Python libraries like yfinance for data acquisition and statistical methods for anomaly identification.
 
+## Techstack
+1. Pandas for Data Preprocessing.
+2. Matplotlib and Seaborn for Data Visualization.
+3. yFinance for stock market Data Extraction.
+
 ## What is Stock Market Anomaly Detection?
 Anomaly detection aims to identify unusual patterns or behaviors in stock market data that deviate significantly from the norm. These anomalies can potentially indicate opportunities or risks for investors.
 
